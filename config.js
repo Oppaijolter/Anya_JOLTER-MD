@@ -84,7 +84,7 @@ module.exports = {
   image_2: readFileSync('./lib/Assets/Jolt2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/Jolt4.jpg"), // Thumbnail for Dashboard
   aliveMedia: readFileSync("./lib/Assets/Joltvid.mp4"),
-  menuMedia: readFileSync('./lib/Assets/Joltervid2.mp4'),
+  menuMedia: readFileSync('./lib/Assets/Joltvid2.mp4'),
   badWords: badWords,
   message: {
     success: message.success,
